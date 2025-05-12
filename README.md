@@ -1,4 +1,4 @@
-# KATA Academy. PRE-PROJECT
+# PRE-PROJECT
 
 # 3.1.5 Rest controllers
 
